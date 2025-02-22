@@ -1,0 +1,64 @@
+*{
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/023/010/709/small_2x/ai-generative-strong-athletic-men-pumping-up-muscles-workout-bodybuilding-concept-muscular-bodybuilder-men-doing-exercises-in-gym-naked-photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.90;
+    padding: 0px;
+    margin: 0px;
+}
+body{
+   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    
+   
+   
+
+ }
+ul{
+    display: flex;
+    list-style: none;
+    gap: 100px;
+    margin: auto;
+
+ 
+
+}
+.ggg{
+    /* margin-top: 10px; */
+    display: flex;
+
+    /* margin: auto; */
+    
+}
+
+
+
+button{
+    margin: auto;
+    padding: 10px;
+    border-radius: 18px;
+    background-color: black;
+    color: wheat;
+    /* width: 20px; */
+}
+.qqq{
+    color: rgb(255, 0, 0);
+}
+
+
+a{
+    color: white;
+    font-weight: bolder;
+    font-size: large;
+    text-decoration: none;
+}
+.ddd:focus{
+    color: black;
+
+}
+
+.ddd:active{
+    color: peachpuff;
+
+}
