@@ -40,10 +40,26 @@
 
 // document.write(mix)
 
-var result = 10 + 2 * 5 /1234 *123;
-console.log( result);
+// var result = 10 + 2 * 5 /1234 *123;
+// console.log( result);
 // for (i=1;  i<=10; i++){
 //     for(j=1; j<=10; j++)
 //         continue
 //     console.log("number :" + i)
 // }
+
+
+
+
+// var eq = ((2 % 4) * 4) + 100;
+// console.log(eq)\
+
+var array =["ali","asad","aliyan","imran","kasaan","hafiz"]
+// array.push("muhammad ")
+// array.pop()
+// array.unshift("hammad")
+// array.shift(1234)
+// array.splice(0,0,"emaan")
+array.slice(2,3)
+
+console.log(array)
