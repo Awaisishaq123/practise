@@ -1,0 +1,64 @@
+/* first div */
+
+.maindiv {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5px
+
+}
+
+.img {
+    width: 300px;
+    border-radius:10px ;
+}
+
+.imge {
+    height: 200px;
+}
+
+#image1 {
+    height: 200px;
+}
+/* maindiv2 */
+
+.maindiv2{
+    display: flex;
+    justify-content: space-around
+
+}
+
+
+
+/* maindiv3 */
+.maindiv3{
+    display: flex;
+    justify-content: space-around
+    
+}
+/* maindiv4 */
+
+.maindiv4{
+    display: flex;
+    justify-content: space-around;
+    
+     
+}
+
+/* maindiv5 */
+.maindiv5{
+    display: flex;
+    justify-content: space-around;
+    
+}
+/* maindiv6 */
+
+.maindiv6{
+    display: flex;
+    justify-content: space-around
+}
+/* maindiv7 */
+.maindiv7{
+    display: flex;
+    justify-content: space-around;
+    
+}
